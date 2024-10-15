@@ -9,7 +9,7 @@ Esse template foi inicialmente baseado no [template de ciência de dados do cook
 É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
 
 ## Desenvolvedores
- - [Lousane Avelar #1]([https://github.com/lousaneavelar-#1]) 
+ - [Lousane Avelar #1](https://github.com/lousaneavelar) 
 
 ### Requisitos
 
