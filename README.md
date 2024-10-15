@@ -6,7 +6,7 @@ Esse template foi inicialmente baseado no [template de ciência de dados do cook
  - Utilização de [jupyter notebooks](https://jupyter.org/) para arquivos de análise;
  - Documentação com o [mkdocs](https://www.mkdocs.org/) ([material design](https://squidfunk.github.io/mkdocs-material/) theme)
 
- Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
+É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
 
 ## Desenvolvedores
  - [Lousane Avelar #1](https://github.com/lousaneavelar-#1)
