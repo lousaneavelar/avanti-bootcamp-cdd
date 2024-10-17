@@ -1,48 +1,23 @@
-# <Projeto implementado no Bootcamp de Ciências de Dados>
+## <Projeto tem como objetivo fornecer um ótimo conjunto de dados para exploração e visualização de dados, como uma alternativa ao iris.>
 
-Esse template foi inicialmente baseado no [template de ciência de dados do cookiecutter](https://drivendata.github.io/cookiecutter-data-science/), mas ao longo do tempo várias modificações foram sendo realizadas. Atualmente o template tem as seguintes características:
- - Utilização do arquivo `pyproject.toml` como centralizador de dependências;
- - Configuração para criação de aplicação `streamlit`;
- - Utilização de [jupyter notebooks](https://jupyter.org/) para arquivos de análise;
- - Documentação com o [mkdocs](https://www.mkdocs.org/) ([material design](https://squidfunk.github.io/mkdocs-material/) theme)
+![Pinguim](pinguim.png)
 
-É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
+## Descrição do Projeto
 
-## Desenvolvedores
- - [Lousane Avelar](https://github.com/lousaneavelar) 
-
-### Requisitos
-
-Para utilizar este template, você precisará de um ambiente com os seguintes softwares:
- - git
- - Python 3.8
- - Poetry `1.1.13` ou superior
-
-É aconselhável o uso do `pyenv` para o gerenciamento de versões do Python.
-
-### Organização de diretórios
+Este projeto tem como objetivo explorar e analisar um conjunto de dados que contém características físicas de três espécies de pinguins da região de Palmer, Antártica. Ele busca fornecer insights sobre as diferenças entre essas espécies, além de ser uma alternativa divertida e didática ao famoso conjunto de dados de íris de Fisher, amplamente utilizado em estudos de machine learning.
 
 
-```
-.
-├── data/              # Diretório contendo todos os arquivos de dados
-│   ├── external/      # Arquivos de dados de fontes externas
-│   ├── interim/       # Arquivos de dados intermediários
-│   ├── processed/     # Arquivos de dados processados
-│   └── raw/           # Arquivos de dados originais, imutáveis
-├── docs/              # Documentação gerada através da biblioteca mkdocs
-├── models/            # Modelos treinados e serializados, predições ou resumos de modelos
-├── notebooks/         # Diretório contendo todos os notebooks utilizados nos passos
-├── references/        # Dicionários de dados, manuais e todo o material exploratório
-├── src/               # Código fonte utilizado nesse projeto
-│   ├── data/          # Classes e funções utilizadas para download e processamento de dados
-│   ├── deployment/    # Classes e funções utilizadas para implantação do modelo
-│   └── model/         # Classes e funções utilizadas para modelagem
-├── app.py             # Arquivo com o código da aplicação do streamlit
-├── Procfile           # Arquivo de configuração do heroku
-├── pyproject.toml     # Arquivo de dependências para reprodução do projeto
-├── poetry.lock        # Arquivo com sub-dependências do projeto principal
-├── README.md          # Informações gerais do projeto
-└── tasks.py           # Arquivo com funções para criação de tarefas utilizadas pelo invoke
+![Graphical Abstract](graphical.png)
 
-```
+
+## Justificativa
+
+O conjunto de dados "Palmer Penguins" oferece uma excelente oportunidade para a prática de análise de dados, machine learning e visualização de dados de uma maneira divertida e acessível. Este projeto foi escolhido por sua simplicidade e riqueza de variáveis, permitindo a aplicação de técnicas variadas de análise exploratória de dados e algoritmos de aprendizado supervisionado. Além disso, este conjunto de dados é frequentemente utilizado como exemplo em cursos e tutoriais de data science por sua clareza e simplicidade.
+
+## Metodologia
+
+O projeto será desenvolvido utilizando a metodolgia CRISP-DM, seguindo os seguintes passos:
+
+1- Entendimento de Negócio
+2- Entendimento de Dados
+
