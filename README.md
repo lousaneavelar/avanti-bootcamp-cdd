@@ -1,4 +1,4 @@
-## <Projeto tem como objetivo fornecer um ótimo conjunto de dados para exploração e visualização de dados, como uma alternativa ao iris.>
+## Projeto para Predição de Espécieis de .
 
 
 ![Pinguim](pinguim.png)
