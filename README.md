@@ -1,4 +1,4 @@
-## Projeto para Predição de Espécieis de .
+## Projeto para Predição de Espécieis de Pinguins.
 
 
 ![Pinguim](pinguim.png)
