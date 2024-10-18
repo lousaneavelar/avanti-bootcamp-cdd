@@ -1,4 +1,13 @@
+
 ## Projeto para Predição de Espécieis de Pinguins.
+
+
+![Pinguim](pinguim.png)
+
+
+## Descrição do Projeto
+
+Este projeto tem como objetivo explorar e analisar um conjunto de dados que contém características físicas de três espécies de pinguins da região de Palmer, Antártica. Ele busca fornecer insights sobre as diferenças entre essas espécies, além de ser uma alternativa divertida e didática ao famoso conjunto de dados de íris de Fisher, amplamente utilizado em estudos de machine learning.
 
 
 ![Pinguim](pinguim.png)
